@@ -1,15 +1,9 @@
 import './App.css'
+import LayoutSite from './layout/LayoutSite'
 
 function App() {
   return (
-    <>
-    
-      <h1 className='text-8xl text-center'> React MIS Router Data</h1>
-   
-      <p className="read-the-docs border-2 border-amber-400">
-        Ultimate MIS Dashboard
-      </p>
-    </>
+    <LayoutSite></LayoutSite>
   )
 }
 
