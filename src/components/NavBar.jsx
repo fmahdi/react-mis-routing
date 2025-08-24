@@ -10,10 +10,10 @@ const Navbar = () => {
                 <a className="btn btn-neutral btn-outline" href='/'>Home</a>
             </div>
             <div className="flex-1">
-                <a className="btn btn-neutral btn-outline">Reports</a>
+                <a className="btn btn-neutral btn-outline" href='/reports'>Reports</a>
             </div>
             <div className="flex-1">
-                <a className="btn btn-neutral btn-outline" href='/blog'>Blog</a>
+                <a className="btn btn-neutral btn-outline" href='/blogs'>Blogs</a>
             </div>
             <div className="flex-1">
                 <a className="btn btn-neutral btn-outline" href='/about'>About Us</a>
