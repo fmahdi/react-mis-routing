@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <h1 className='text-8xl text-center'> React MIS Router Data</h1>
+            <h1 className='text-5xl text-center'> React MIS Router Data</h1>
         </div>
     );
 };
