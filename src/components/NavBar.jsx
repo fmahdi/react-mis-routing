@@ -7,16 +7,16 @@ const Navbar = () => {
                 <a className="btn btn-ghost text-xl">MISD</a>
             </div>
             <div className="flex-1">
-                <a className="btn btn-neutral btn-outline">Home</a>
+                <a className="btn btn-neutral btn-outline" href='/'>Home</a>
             </div>
             <div className="flex-1">
                 <a className="btn btn-neutral btn-outline">Reports</a>
             </div>
             <div className="flex-1">
-                <a className="btn btn-neutral btn-outline">Blog</a>
+                <a className="btn btn-neutral btn-outline" href='/blog'>Blog</a>
             </div>
             <div className="flex-1">
-                <a className="btn btn-neutral btn-outline">About Us</a>
+                <a className="btn btn-neutral btn-outline" href='/about'>About Us</a>
             </div>
             <div className="flex-none">
                 <button className="btn btn-square btn-ghost">
